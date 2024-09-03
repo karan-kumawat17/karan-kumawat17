@@ -1,5 +1,9 @@
+<div align="center">
+  <img src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/200.webp?cid=790b7611fzj6ozzlb9nxw855sas4xrx2u98kg21sa63eguk3&ep=v1_gifs_search&rid=200.webp&ct=g" width="600"/>
+</div>
 <h1 align="center">Hi 👋, I'm Karan Kumawat</h1>
 <h3 align="center">I am a Data Science & AI prefinal yearite at IIT Guwahati.</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif">
 
 - 🔭 I’m currently working on [MusicGenAI](https://github.com/karan-kumawat17/MusicGenAI)
 
