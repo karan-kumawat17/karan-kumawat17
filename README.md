@@ -5,9 +5,9 @@
 <h3 align="center">I am a Data Science & AI prefinal yearite at IIT Guwahati.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif">
 
-- 🔭 I’m currently working on [MusicGenAI](https://github.com/karan-kumawat17/MusicGenAI)
+- 🔭 I’m currently working on [Dataset Distillation](https://github.com/karan-kumawat17/DA311-Dataset-Distillation)
 
-- 🌱 I’m currently learning **Web Scraping and ML**
+- 🌱 I’m currently learning **Web Scraping and ML**. Also, I am learning to integrate **Kafka with real-time applications & Dataset Distillation for efficient model learning**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/karan-kumawat17](https://github.com/karan-kumawat17)
 
